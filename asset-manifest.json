@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canteeniq-smart-canteen-system/static/css/main.e6c13ad2.css",
+    "main.js": "/canteeniq-smart-canteen-system/static/js/main.698c9a56.js",
+    "static/js/453.b28aad1c.chunk.js": "/canteeniq-smart-canteen-system/static/js/453.b28aad1c.chunk.js",
+    "index.html": "/canteeniq-smart-canteen-system/index.html",
+    "main.e6c13ad2.css.map": "/canteeniq-smart-canteen-system/static/css/main.e6c13ad2.css.map",
+    "main.698c9a56.js.map": "/canteeniq-smart-canteen-system/static/js/main.698c9a56.js.map",
+    "453.b28aad1c.chunk.js.map": "/canteeniq-smart-canteen-system/static/js/453.b28aad1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.698c9a56.js"
+  ]
+}
